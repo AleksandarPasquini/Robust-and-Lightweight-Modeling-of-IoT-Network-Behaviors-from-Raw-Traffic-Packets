@@ -3,8 +3,8 @@
       {
         "tensorName": "1-D CNN Embeddings",
         "tensorShape": [
-          1000,
-          50
+          70001,
+          64
         ],
         "tensorPath": "https://github.com/AleksandarPasquini/Embeddings/blob/master/TSVs/selected_1-D%20CNN.tsv",
         "metadataPath": "https://github.com/AleksandarPasquini/Embeddings/blob/master/TSVs/selected_metadata.tsv"
