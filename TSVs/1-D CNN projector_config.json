@@ -1,0 +1,13 @@
+{
+    "embeddings": [
+      {
+        "tensorName": "1-D CNN Embeddings",
+        "tensorShape": [
+          1000,
+          50
+        ],
+        "tensorPath": "https://github.com/AleksandarPasquini/Embeddings/TSVs/selected_1-D CNN.tsv",
+        "metadataPath": "https://github.com/AleksandarPasquini/Embeddings/TSVs/selected_metadata.tsv"
+      }
+    ]
+  }
