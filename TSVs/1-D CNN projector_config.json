@@ -6,8 +6,8 @@
           1000,
           50
         ],
-        "tensorPath": "https://github.com/AleksandarPasquini/Embeddings/blob/main/TSVs/selected_1-D%20CNN.tsv",
-        "metadataPath": "https://github.com/AleksandarPasquini/Embeddings/blob/main/TSVs/selected_metadata.tsv"
+        "tensorPath": "https://github.com/AleksandarPasquini/Embeddings/blob/master/TSVs/selected_1-D%20CNN.tsv",
+        "metadataPath": "https://github.com/AleksandarPasquini/Embeddings/blob/master/TSVs/selected_metadata.tsv"
       }
     ]
   }
