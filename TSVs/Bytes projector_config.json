@@ -1,0 +1,13 @@
+{
+    "embeddings": [
+      {
+        "tensorName": "Byte Embeddings",
+        "tensorShape": [
+          28001,
+          1508
+        ],
+        "tensorPath": "https://raw.githubusercontent.com/AleksandarPasquini/Embeddings/master/TSVs/selected_Bytes.tsv",
+        "metadataPath": "https://raw.githubusercontent.com/AleksandarPasquini/Embeddings/master/TSVs/selected_bytesmetadata.tsv"
+      }
+    ]
+  }

@@ -1,0 +1,13 @@
+{
+    "embeddings": [
+      {
+        "tensorName": "Compression Embeddings",
+        "tensorShape": [
+          70001,
+          64
+        ],
+        "tensorPath": "https://raw.githubusercontent.com/AleksandarPasquini/Embeddings/master/TSVs/selected_Compression.tsv",
+        "metadataPath": "https://raw.githubusercontent.com/AleksandarPasquini/Embeddings/master/TSVs/selected_metadata.tsv"
+      }
+    ]
+  }
