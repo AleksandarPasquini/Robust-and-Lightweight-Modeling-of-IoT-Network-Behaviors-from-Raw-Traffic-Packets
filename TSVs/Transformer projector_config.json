@@ -3,11 +3,11 @@
       {
         "tensorName": "Transformer Embeddings",
         "tensorShape": [
-          70001,
+          70000,
           64
         ],
         "tensorPath": "https://raw.githubusercontent.com/AleksandarPasquini/Embeddings/master/TSVs/selected_Transformer.tsv",
-        "metadataPath": "https://raw.githubusercontent.com/AleksandarPasquini/Embeddings/master/TSVs/selected_metadata.tsv"
+        "metadataPath": "https://raw.githubusercontent.com/AleksandarPasquini/Embeddings/master/TSVs/selected_labels_Transformer.tsv"
       }
     ]
   }

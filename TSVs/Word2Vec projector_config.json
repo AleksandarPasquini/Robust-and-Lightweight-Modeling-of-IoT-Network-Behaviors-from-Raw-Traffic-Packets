@@ -3,7 +3,7 @@
       {
         "tensorName": "Word2Vec Embeddings",
         "tensorShape": [
-          70001,
+          66500,
           64
         ],
         "tensorPath": "https://raw.githubusercontent.com/AleksandarPasquini/Embeddings/master/TSVs/selected_Word2Vec.tsv",
